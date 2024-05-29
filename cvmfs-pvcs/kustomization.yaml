@@ -1,5 +1,7 @@
 
 resources:
+- cvmfs-pv-cern-atlas.yaml
+- cvmfs-pv-cern-sft.yaml
 - cvmfs-pv-config-osg.yaml
 - cvmfs-pv-fermilab.yaml
 - cvmfs-pv-oasis.yaml
