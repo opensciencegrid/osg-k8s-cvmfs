@@ -11,4 +11,5 @@ resources:
 - cvmfs-pv-nova.yaml
 - cvmfs-pv-singularity.yaml
 - cvmfs-pv-xenon.yaml
+- cvmfs-pv-igwn-software.yaml
 
