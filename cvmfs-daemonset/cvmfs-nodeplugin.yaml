@@ -30,7 +30,7 @@ spec:
               command: ["/usr/local/sbin/unmount-and-terminate.sh"]
         env:
         - name: MOUNT_REPOS
-          value: "config-osg.opensciencegrid.org,icecube.opensciencegrid.org,oasis.opensciencegrid.org,connect.opensciencegrid.org,singularity.opensciencegrid.org,xenon.opensciencegrid.org,fermilab.opensciencegrid.org,nova.opensciencegrid.org,cms.cern.ch,cms-ib.cern.ch,atlas.cern.ch,sft.cern.ch"
+          value: "config-osg.opensciencegrid.org,icecube.opensciencegrid.org,oasis.opensciencegrid.org,connect.opensciencegrid.org,singularity.opensciencegrid.org,xenon.opensciencegrid.org,fermilab.opensciencegrid.org,nova.opensciencegrid.org,cms.cern.ch,cms-ib.cern.ch,atlas.cern.ch,sft.cern.ch,software.igwn.org"
         - name: SQUID_URI
           value: "http://frontier-squid:3128"
         resources:
